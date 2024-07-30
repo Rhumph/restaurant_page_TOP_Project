@@ -1,0 +1,18 @@
+body{ 
+    background-image: url(./20230102_132514.jpg);
+    position: relative;
+    width: 100%; /* Adjust width as needed */
+    height: 100vh; /* Adjust height as needed */
+    overflow: hidden; 
+    filter: blur(4px);
+}
+
+/* #content{ 
+    
+} */
+
+.tester{ 
+    height: 1000px;
+    width: 100px;
+    background-color: red;
+}
