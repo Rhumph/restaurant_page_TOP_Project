@@ -2,7 +2,8 @@
   "scripts": {
     "build": "webpack",
     "start": "webpack serve --open",
-    "watch": "webpack --watch"
+    "watch": "webpack --watch",
+    "git-st-push": "git subtree push --prefix dist origin gh-pages"
   },
   "private": "true",
   "devDependencies": {
